@@ -16,6 +16,11 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 npm install
 ```
 
+### add gaps
+
+```sh
+npm install gaps
+```
 ### Compile and Hot-Reload for Development
 
 ```sh
